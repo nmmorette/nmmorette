@@ -1,4 +1,4 @@
-### Hello there, I'm Natan -[nmmoret][website]
+### Hello there, I'm Natan -[nmmorette][website]
 
 
 ## $whoami
