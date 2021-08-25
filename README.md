@@ -1,4 +1,4 @@
-### Hello there, I'm Natan -[nmmorette][nmmorette.github.io]
+### Hello there, I'm Natan -[nmmoret][website]
 
 
 ## $whoami
@@ -13,3 +13,6 @@
 - Gamer
 - Nerd
 
+
+
+[website]: http://nmmorette.github.io
