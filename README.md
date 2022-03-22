@@ -3,15 +3,15 @@
 
 ## $whoami
 
-- Cybersecurity Graduate Student
-- MIT Network Engineering
-- Licentiate in Computer Network
-- Microsoft Technology Associate
-- DCPT - In progress….
-- CTF Player
-- Free Surfer
-- Gamer
-- Nerd
+Cyber Security Analyst
+DCPT
+MIT Network Engineering
+Licentiate in Computer Network
+Microsoft Technology Associate
+CTF Player
+Free Surfer
+Gamer
+Nerd
 
 
 
