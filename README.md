@@ -3,15 +3,15 @@
 
 ## $whoami
 
-Cyber Security Analyst
-DCPT
-MIT Network Engineering
-Licentiate in Computer Network
-Microsoft Technology Associate
-CTF Player
-Free Surfer
-Gamer
-Nerd
+- Cyber Security Analyst
+- DCPT
+- MIT Network Engineering
+- Licentiate in Computer Network
+- Microsoft Technology Associate
+- CTF Player
+- Free Surfer
+- Gamer
+- Nerd
 
 
 
