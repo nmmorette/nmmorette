@@ -4,6 +4,7 @@
 ## $whoami
 
 - Cyber Security Analyst
+- PNPT
 - DCPT
 - MIT Network Engineering
 - Licentiate in Computer Network
