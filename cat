@@ -1,1 +1,4 @@
-cat /etc/passwd
+
+with open('/proc/self/environ', 'r') as file:
+    for line in file:
+        print(line.strip())
