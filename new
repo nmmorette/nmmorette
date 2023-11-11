@@ -1,2 +1,0 @@
-echo file_get_contents("php://fd/3");
-$myfile = fopen("/etc/passwd", "r");

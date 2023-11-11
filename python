@@ -1,5 +1,0 @@
-admin_pass = get_user_pass("admin")
-if password == input("Please enter your password"):
-  login()
-else:
-  print "Password is incorrect!"
