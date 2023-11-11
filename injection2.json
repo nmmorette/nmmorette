@@ -1,0 +1,4 @@
+{
+    "__class__": "os.system",
+    "__init__": ["ls"]
+}

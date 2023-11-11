@@ -1,0 +1,3 @@
+{
+    "command": "echo vulnerabilidade | tee /tmp/vulnerabilidade.txt"
+}
